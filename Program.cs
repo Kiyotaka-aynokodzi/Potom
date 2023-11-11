@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 public class Game:IComparable<Game> /// \brief Класс ,который в себе хранит Конструктор персонажа,его данные
 {
-public string Title ; /// \brief Переменная ,которая предназначена для зранения класса
-public int ReleaseYear ; /// \brief Переменная ,которая предназначена для зранения уровня
-public string Race ; /// \brief Переменная ,которая предназначена для зранения расы
-public string Nickname ; /// \brief Переменная ,которая предназначена для зранения никнейма
+public string Title ; /// \brief Переменная ,которая предназначена для хранения класса
+public int ReleaseYear ; /// \brief Переменная ,которая предназначена для хранения уровня
+public string Race ; /// \brief Переменная ,которая предназначена для хранения расы
+public string Nickname ; /// \brief Переменная ,которая предназначена для хранения никнейма
 
 public Game(string title, int releaseYear, string race, string nickname)
 {
