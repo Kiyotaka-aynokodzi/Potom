@@ -1,0 +1,14 @@
+C:\Users\ninja\OneDrive\Рабочий стол\antre\bin\Debug\net7.0\antre.exe
+C:\Users\ninja\OneDrive\Рабочий стол\antre\bin\Debug\net7.0\antre.deps.json
+C:\Users\ninja\OneDrive\Рабочий стол\antre\bin\Debug\net7.0\antre.runtimeconfig.json
+C:\Users\ninja\OneDrive\Рабочий стол\antre\bin\Debug\net7.0\antre.dll
+C:\Users\ninja\OneDrive\Рабочий стол\antre\bin\Debug\net7.0\antre.pdb
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.AssemblyInfoInputs.cache
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.AssemblyInfo.cs
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.csproj.CoreCompileInputs.cache
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.dll
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\refint\antre.dll
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.pdb
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\antre.genruntimeconfig.cache
+C:\Users\ninja\OneDrive\Рабочий стол\antre\obj\Debug\net7.0\ref\antre.dll
